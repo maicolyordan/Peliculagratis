@@ -458,7 +458,28 @@ https://server14.peliscdn.online:443/newhls/747adbd74d7c11ed5cafb55633aaede3/EP.
 https://server36.peliscdn.online:443/newhls/57192872f01e760880874b8aef59d107/EP.0.1.v1.1677197987.720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/X4xtFBn.jpeg" group-title="⭐️PELICULA COMEDIA⭐️", Misterio a Bordo
 https://server45.peliscdn.online:443/newhls/6252dcf47a8f4b9097bf3590f6f59585/EP.0.1.v1.1678044425.1080.m3u8
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-ridiculos-6.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Los Ridiculos 6
+https://server37.peliscdn.online:443/newhls/3917f1ec2f98bc9ba72614a53a95872d/EP.0.1.v0.1677359904.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/adventures-of-aladdin-2-1574919842.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Adventures of Aladdin
+https://server02.peliscdn.online:443/newhls/863a0b850e8ba04355bb4a5cf91e04d5/EP.0.1.v3.1676994294.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-regreso-de-aladino-2-1580469124.jpg" group-title="⭐️PELICULA COMEDIA⭐️",El Regreso de Aladino
+https://server24.peliscdn.online:443/newhls/87a4e9b7929da2836b64d08e12caf914/EP.0.1.v0.1677092460.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dos-tontos-muy-tontos-1580571608.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Dos Tontos muy tonto
+https://server42.peliscdn.online:443/newhls/7061f1aeb14c12ed262712dc5ae7683f/EP.0.1.v0.1677019168.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hombres-de-negro-i.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Hombres de Negro 1
+https://server20.peliscdn.online:443/newhls/60c87a855a00a19b5118099945ae99ac/EP.0.1.v0.1677414495.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hombres-de-negro-ii.jpg" group-title="⭐️PELICULA COMEDIA⭐️", Hombres de Negro 2
+https://server14.peliscdn.online:443/newhls/12507f71597124e9e687271225b85f63/EP.0.1.v0.1677532550.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hombres-de-negro-iii.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Hombres De Negro 3
+https://server24.peliscdn.online:443/newhls/bac39d265acd581da1e9709093850973/EP.0.1.v0.1677416958.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-guarderia-de-papa.jpg" group-title="⭐️PELICULA COMEDIA⭐️",La Guardería de Papá
+https://server27.peliscdn.online:443/newhls/78aa731f987b0ed5de65dc7afacf2c3a/EP.0.1.v0.1678389788.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/poli-de-guarderia-2.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Poli de Guardería 2
+https://server18.peliscdn.online:443/newhls/4c6f9b04dc304774496de3f5a30b8673/EP.0.1.v0.1677092081.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/casi-muerta-1693843070.png" group-title="⭐️PELICULA COMEDIA⭐️",Casi Muerta
+https://server07.peliscdn.online:443/newhls/2a66a79389848bee7f89ebf35dccf237/EP.0.2.v0.1693850546.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-navidad-de-las-madres-rebeldes.jpg" group-title="⭐️PELICULA COMEDIA⭐️",La Navidad de Madre 
+https://server12.peliscdn.online:443/newhls/adcf2c3c8a349d16e566196732182dc2/EP.0.1.v1.1677449940.720.m3u8
 
 
 
