@@ -325,7 +325,26 @@ https://server16.peliscdn.online:443/newhls/5ef41c60d93d9c699f857b6432b969e9/EP.
 https://server21.peliscdn.online:443/newhls/6aa1bcb36fa8d51ad6fd6159cbae1acd/EP.0.1.v0.1677548600.1080.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Gsp54E1.jpeg" group-title="⭐️PELICULA ANIMACION⭐️", Lluvia de Hamburguesas 2: La Venganza de las Sobras
 https://server14.peliscdn.online:443/newhls/717bd291a83a2f9f1a968e64a5a4e7b9/EP.0.1.v0.1677456089.360.m3u8
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-1.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Shrek
+https://server37.peliscdn.online:443/newhls/48d0d381106aaaf6071f95cb6cc16680/EP.0.1.v0.1677381744.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-2.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Shrek 2
+https://server25.peliscdn.online:443/newhls/fb05d0838fccc755a8432aea157aef09/EP.0.1.v1.1677372492.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-tercero.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Shrek 3
+https://server02.peliscdn.online:443/newhls/15c7d2a0df4fa84bad00b283d225d98a/EP.0.1.v0.1677322056.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-para-siempre-el-capitulo-final.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Shrek 4
+https://server19.peliscdn.online:443/newhls/8a090ebb7a3d6b64311fc104fadf7f4c/EP.0.1.v0.1677704105.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/coco.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Coco
+https://server15.peliscdn.online:443/newhls/6dc7ac72797cdb6504ef330e6dbb54b3/EP.0.1.v0.1677392443.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Rey león
+https://server13.peliscdn.online:443/newhls/0a782971ab64112249d88ce2f09ff4c7/EP.0.1.v1.1677590724.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-2-el-tesoro-de-simba.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Rey león 2
+https://server24.peliscdn.online:443/newhls/51f10967a23507de75e71448167a6c8a/EP.0.1.v0.1679659552.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-3-hakuna-matata.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Rey león 3
+https://server33.peliscdn.online:443/newhls/8c0eb37c9093cda12a991ac193142ce5/EP.0.1.v0.1677147922.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/elemental-2-1687423806.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Elemental
+https://server26.peliscdn.online:443/newhls/db934cb0776724aa7e120f5f9c89b36f/EP.0.1.v3.1693029081.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/soul-2-1609127282.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Soul
+https://server01.peliscdn.online:443/newhls/1a079b77836e2cacf2f0fbe7b724b3ab/EP.0.1.v0.1676701390.720.m3u8
 
 
 
