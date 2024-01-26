@@ -611,4 +611,13 @@ https://server28.peliscdn.online:443/newhls/dddae378e3bcf37a91553969e18d2a36/EP.
 https://server23.peliscdn.online:443/newhls/61b67365370a1a8965e4caa2e25a76b0/EP.0.1.v0.1678049776.1080.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HcExDXh.jpeg" group-title="⭐️PELICULA FAMILIAR⭐️", Karate kid 3
 https://server17.peliscdn.online:443/newhls/5e41e6536c1ed31fd5d666617db9dc55/EP.0.1.v0.1677504492.360.m3u8
-.
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-castillo-ambulante.jpg" group-title="⭐️PELICULA ANIME⭐️", El Castillo Ambulante
+Anime Subtitulado
+https://server36.peliscdn.online:443/newhls/7ff95de21523e2ebef49cabb9b4ddd51/EP.0.0.v1.1677415493.360.m3u8
+
