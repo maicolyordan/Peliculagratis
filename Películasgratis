@@ -188,7 +188,8 @@ https://server04.peliscdn.online:443/newhls/ac352c4e0d47cd36de44928ba284f50a/EP.
 
 
 
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/trolls-3-se-armo-la-banda.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Comidalia.
+https://server14.peliscdn.online:443/newhls/445615197a5f3fe3faddca5819602301/EP.0.2.v0.1700505601.720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kJ9MhrV.jpeg" group-title="⭐️PELICULA ANIMACION⭐️", Comidalia.
 https://server09.peliscdn.online:443/newhls/e9ed701e76794c9a7bfd9324266c6a06/EP.0.0.v0.1681633452.720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TrIbDlY.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Las aventuras de Maurice.
