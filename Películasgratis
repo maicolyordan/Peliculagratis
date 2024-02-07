@@ -53,6 +53,8 @@ https://server11.peliscdn.online:443/newhls/08003539dac3d7a9480d9138b911fe25/EP.
 
 
 
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4Jk7QXN.jpeg" group-title="⭐️PELICULA ACCIÓN⭐️", FLAHS 2023
 https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4cf16a17bdab9f6b5ac3043ec5498c41/EP.0.1.v0.1691569431.720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1Bxpotc.jpeg" group-title="⭐️PELICULA ACCIÓN⭐️", Bluee betle
@@ -223,6 +225,9 @@ https://server30.peliscdn.online:443/newhls/a22bb0b788936990903303ec6d3439a5/EP.
 https://server01.peliscdn.online:443/newhls/8568f31c203cc48cdc22b5e905ad782c/EP.0.1.v1.1677456472.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/john-wick-chapter-4-2-1679733602.jpg" group-title="⭐️PELICULA ACCIÓN⭐️",John Wick 4
 https://server08.peliscdn.online:443/newhls/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v8.1689699109.720.m3u8
+
+
+
 
 
 
@@ -428,7 +433,32 @@ https://server12.peliscdn.online:443/newhls/7e93eb44fef5395d7364f8b5767e3ddf/EP.
 https://server02.peliscdn.online:443/newhls/690d1bc4c4939f5361467b3d2c4bdd03/EP.0.1.v5.1675940901.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hotel-transylvania.jpg" group-title="⭐️PELICULA ANIMACION⭐️", Hotel Transylvania
 https://server28.peliscdn.online:443/newhls/65ffdf7441503ff646ce331b8ddc5ef3/EP.0.1.v1.1677429876.720.m3u8
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hotel-transilvania-2.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Hotel Transylvania 2
+https://server06.peliscdn.online:443/newhls/6f7636ea37f31520e57ff339658843fb/EP.0.1.v0.1677956639.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hotel-transylvania-3-monstruos-de-vacaciones.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Hotel Transylvania 3: Monstruos de Vacaciones
+https://server30.peliscdn.online:443/newhls/8b21a4223d0660b96a8175f4e1861b50/EP.0.1.v2.1677410256.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Hotel Transilvania 4: Transformanía
+https://server33.peliscdn.online:443/newhls/eaa01eba5fbe4f8ab28941ba2133388c/EP.0.2.v2.1676161484.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/blancanieves-y-los-siete-enanitos.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Blancanieves y los Siete Enanitos
+https://server21.peliscdn.online:443/newhls/cc347847170990d8e50f64dc3fe4d1b9/EP.0.1.v0.1679680609.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hormigaz.jpg" group-title="⭐️PELICULA ANIMACION⭐️",ANTZ
+https://server38.peliscdn.online:443/newhls/180fe703337bb51dc2e21b27f9f4235e/EP.0.1.v0.1677327181.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-el-origen-de-gru.png" group-title="⭐️PELICULA ANIMACION⭐️",Minions: El origen de Gru
+https://server45.peliscdn.online:443/newhls/afbd74f0e41d7e60b045056844361672/EP.0.1.v0.1676001655.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-y-sus-amigos-volumen-2.png" group-title="⭐️PELICULA ANIMACION⭐️",Minions y sus amigos: Volumen 2
+https://server28.peliscdn.online:443/newhls/aa5ff4214da0ebcaf84ed398369b41ec/EP.0.2.v1.1675994302.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-nemo.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Buscando a Nemo
+https://server26.peliscdn.online:443/newhls/d1944b6e28e53565171d030dc7944b73/EP.0.1.v0.1678047686.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ralph-el-demoledor.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Ralph
+https://server30.peliscdn.online:443/newhls/91512cda3abb738c882c6332bc7ea4d6/EP.0.1.v0.1677355393.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/wifi-ralph.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Wifi Ralph
+https://server16.peliscdn.online:443/newhls/58482f9e41dfb234180642b84d0824b0/EP.0.1.v0.1679652347.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/como-entrenar-a-tu-dragon.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Cómo entrenar a tu dragón
+https://server43.peliscdn.online:443/newhls/f22bb293c9e39a9e5dd6a3e2372723be/EP.0.1.v0.1677384983.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/como-entrenar-a-tu-dragon-2.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Cómo Entrenar a tu Dragón 2
+https://server30.peliscdn.online:443/newhls/f40e409a76df7eb806d9fe5fdde6bc36/EP.0.1.v0.1677731939.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/como-entrenar-a-tu-dragon-3.jpg" group-title="⭐️PELICULA ANIMACION⭐️",Cómo Entrenar a tu Dragón 3
+https://server05.peliscdn.online:443/newhls/dc9d14f3b61a059a99b23c69ef5cfe05/EP.0.1.v1.1677732290.1080.m3u8
 
 
 
