@@ -593,7 +593,26 @@ https://server18.peliscdn.online:443/newhls/4c6f9b04dc304774496de3f5a30b8673/EP.
 https://server07.peliscdn.online:443/newhls/2a66a79389848bee7f89ebf35dccf237/EP.0.2.v0.1693850546.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-navidad-de-las-madres-rebeldes.jpg" group-title="⭐️PELICULA COMEDIA⭐️",La Navidad de Madre 
 https://server12.peliscdn.online:443/newhls/adcf2c3c8a349d16e566196732182dc2/EP.0.1.v1.1677449940.720.m3u8
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/intocable.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Intocable
+https://server42.peliscdn.online:443/newhls/b7e5a2fbf5916847e35b4a42966eeff8/EP.0.1.v1.1677408093.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/green-book-ihy0v-2-1670325614.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Green Book
+https://server46.peliscdn.online:443/newhls/6143d72bba06a617754244940a888293/EP.0.1.v0.1675937840.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-lado-bueno-de-las-cosas.jpg" group-title="⭐️PELICULA COMEDIA⭐️",El Lado Bueno de las Cosas
+https://server46.peliscdn.online:443/newhls/908f6d86db99dfb269a8a0df85b540bf/EP.0.1.v0.1677289119.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/torrente-el-brazo-tonto-de-la-ley-1598396412.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Torrente: El Brazo Tonto de la Ley
+https://server17.peliscdn.online:443/newhls/e458570a861797c898e8d0e9ee5d27a1/EP.0.2.v0.1676201796.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enola-holmes-1600902904.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Enola Holmes
+https://server33.peliscdn.online:443/newhls/269f51b32a3c3ec5a5a24abd8936b779/EP.0.1.v0.1676679256.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enola-holmes-2-2-1668779732.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Enola Holmes 2
+https://server38.peliscdn.online:443/newhls/469d60331e657460b9a50d31002e1d78/EP.0.1.v1.1675955436.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-reportero-la-leyenda-de-ron-burgundy.jpg" group-title="⭐️PELICULA COMEDIA⭐️",El Reportero: La Leyenda de Ron Burgundy
+https://server27.peliscdn.online:443/newhls/dd8d4d6b7368d6b3766ab1006acd89bc/EP.0.1.v1.1679788799.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/quest-ce-quon-a-encore-fait-au-bon-dieu-2-1587828243.jpg" group-title="⭐️PELICULA COMEDIA⭐️",Dios mío, ¿pero qué te hemos hecho… ahora?
+https://server40.peliscdn.online:443/newhls/99c00239a8209c7a8311294cb0ce1795/EP.0.1.v0.1676836470.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/revancha-ya.png" group-title="⭐️PELICULA COMEDIA⭐️",Revancha ya
+https://server44.peliscdn.online:443/newhls/af12f8d0f21e0826702a63e2e99a800e/EP.0.1.v1.1676013216.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-bodas-de-mas.jpg" group-title="⭐️PELICULA COMEDIA⭐️",3 Bodas de Más
+https://server25.peliscdn.online:443/newhls/503a51b9112139372468e65501d6a379/EP.0.1.v0.1677354488.360.m3u8
 
 
 
@@ -622,7 +641,7 @@ https://server21.peliscdn.online:443/newhls/0db2e622f93abbdc9278657da62a053b/EP.
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-sociedad-de-la-nieve.jpg" group-title="⭐️PELICULA FAMILIAR⭐️", La sociedad de la nieve.
 https://fast1.next-stream.xyz/movie/1704416400/177291_2.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/GwrvkDC.jpeg" group-title="⭐️PELICULA FAMILIAR⭐️", Las locuras del emperador.
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lX6T3iY.jpeg" group-title="⭐️PELICULA FAMILIAR⭐️", Las locuras del emperador.
 https://server12.mxcdnab.online/newhls/309d0ee16f5275f9d83aa969938f403b/EP.0.1.v0.1677495281.720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UTQERsF.jpeg" group-title="⭐️PELICULA FAMILIAR⭐️", Sing 2.
 https://server08.peliscdn.online/newhls/ddd5f6f11d9cee5cc75e800f832c069a/EP.0.2.v0.1678822534.m3u8
