@@ -810,6 +810,9 @@ https://server14.peliscdn.online:443/newhls/e03355400d05fa09cc4c29b67450c1c5/EP.
 https://server30.peliscdn.online:443/newhls/0e0018c87bc7daa84a89f7d0441408f0/EP.0.1.v0.1677553183.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-pinguinos-del-sr-poper.jpg" group-title="⭐️PELICULA FAMILIAR⭐️", Los Pingüinos de Papá
 https://server02.peliscdn.online:443/newhls/d79e04dcfe9b49314bd173049cbad405/EP.0.1.v0.1677082067.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-sueno-posible.jpg" group-title="⭐️PELICULA FAMILIAR⭐️", Un sueño posible
+https://server17.peliscdn.online:443/newhls/e610900dc0fdecbac30c782cfb0ca3f6/EP.0.1.v0.1677409601.1080.m3u8
+
 
 
 
